@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-"""
 
 def student_list1():
     for k,v in dict.items(student_body):
@@ -111,3 +109,4 @@ while not stop_program:
         print('\nInvalid Choice. Please Try Again.')
 
             
+
