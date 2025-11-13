@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-UTSA – Fall 2023 - CS1063 – Section 001 - Project 1 - written by PETE CHALLENGER
 """
 
 def student_list1():
@@ -110,4 +109,5 @@ while not stop_program:
         
     else:
         print('\nInvalid Choice. Please Try Again.')
+
             
