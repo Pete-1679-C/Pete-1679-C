@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-UTSA - Fall 2023 - CS1063 - Section 001 - Project 2 - Created by Pete Challenger
-"""
-print('\nUTSA - Fall 2023 - CS1063 - Section 001 - Project 2 - Created by Pete Challenger\n')
 
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -264,3 +260,4 @@ while not stop_program:
         print(f'\n{excpt}')
         print('You Either Entered an Invalid Number or You Entered a Word or Character Instead.')
         print('Please Try Again.')
+
